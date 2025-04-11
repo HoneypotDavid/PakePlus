@@ -1,6 +1,6 @@
 {
     "$schema": "https://schema.tauri.app/config/2",
-    "productName": "PalmstreetSeller",
+    "productName": "ChatGPT",
     "version": "0.0.1",
     "identifier": "com.PalmstreetSeller.app",
     "app": {
